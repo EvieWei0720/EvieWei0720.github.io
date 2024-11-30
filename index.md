@@ -17,7 +17,7 @@ I am working on model optimization in a project 'Data Visualization and Predicti
 
 ## Study Interests
 
-**<font color="#00AEAE">I am actively seeking a Master Program in 2025 Fall. If you have any information, please contact me!</font>**
+**<font color="#842B00">I am actively seeking a Master Program in 2025 Fall. If you have any information, please contact me!</font>**
 
 - Data Visualization
 - Data Mining
@@ -26,7 +26,7 @@ I am working on model optimization in a project 'Data Visualization and Predicti
 
 ---
 
-## News and Updates
+## Publications
 
 
 
