@@ -15,16 +15,14 @@ I am working on model optimization in a project 'Data Visualization and Predicti
 
 ---
 
-## Research Interests
+## Study Interests
 
-**<font color="#990000">I am actively seeking a Master Program in 2025 Fall. If you have any information, please contact me!</font>**
+**<font color="#003E3E">I am actively seeking a Master Program in 2025 Fall. If you have any information, please contact me!</font>**
 
-- [Internet of Everything](https://scholar.google.com/citations?view_op=search_authors&hl=zh-CN&mauthors=label:internet_of_everything)
-- AI-powered Systems
-- Molecular Communication
-- Bio-sensor and Bio-electronics
-
-My current research focuses on practical problems that artificial intelligence faces in real life. My interests are on the **Machine Learning** and its applications in **Industrial IoT**. In a word, advanced technologies like ML and IoT positively influence the life of everybody.  I wish to devote my talent to this meaningful cause and bring well-being to society.
+- Data Visualization
+- Data Mining
+- Optimization
+- Machine Learning & Deep Learning
 
 ---
 
