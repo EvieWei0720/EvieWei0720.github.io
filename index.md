@@ -7,17 +7,17 @@ layout: page
 <!--<img src="https://caihanlin.com/caihanlin.jpg" class="floatpic">-->
 <br>
 
-Here is **Evie Wei**.<br>
+Here is **Evie Wei**. Welcome to my personal website!<br>
 
-I am a graduate student in the Department of Engineering at the University of Cambridge, advised by [Prof. Özgür Akan](https://ioe.eng.cam.ac.uk/directory/akan), within [Internet of Everything (IoE) Group](https://ioe.eng.cam.ac.uk/). I also spent a lovely summer research program with [Prof. Pietro Liò](https://www.cl.cam.ac.uk/~pl219/) at [Artificial Intelligence Group](https://www.cl.cam.ac.uk/research/ai/). Prior to Cambridge,  I have worked on System Engineering, Cybersecurity and Wireless Communication with [Prof. Zhezhuang Xu](https://scholar.google.com.hk/citations?user=iZ7LQRkAAAAJ&hl=zh-CN) and [Dr. Meng Yuan](https://myuan27.github.io/). Recently, I was honored to be selected as **AAAI-2024 and KDD-2024 Undergraduate Scholars**.<br>
+I am an undergraduate majoring in Computer Science and Technology in Hangzhou Dianzi University. Recently, I have been to the University of California, Irvine as an exchange student.
 
-If you are interested in any aspect of me, I am always open to discussions and collaborations. Feel free to reach out to me at - hc663 [at] cam.ac.uk
+I am working on model optimization in a project 'Data Visualization and Prediction of Carbon Emission' led by [Professor Shi](https://faculty.hdu.edu.cn/jsjxy/sxy2/main.htm). Our latest achievements have been written and accepted by [ICCGE 2024](https://iccge.org/). I also spent a great summer at New York University with [Professor Gaffney](https://www.sps.nyu.edu/homepage/academics/faculty-directory/20072-christopher-t-gaffney.html#about20072) for data visualization. [Analysys](https://www.analysys.cn/) and [JD Logistics](https://www.jdl.com/en/profile) are two companies I used to work as an intern. I was a business analyst in Analysys and a member of the operation analysis group in the Supply Chain Shanghai Integrated Support Department.<br>
 
 ---
 
 ## Research Interests
 
-**<font color="#990000">I am actively seeking a PhD position for 2025 Fall admission. If you have any information, please contact me!</font>**
+**<font color="#990000">I am actively seeking a Master Program in 2025 Fall. If you have any information, please contact me!</font>**
 
 - [Internet of Everything](https://scholar.google.com/citations?view_op=search_authors&hl=zh-CN&mauthors=label:internet_of_everything)
 - AI-powered Systems
