@@ -28,6 +28,13 @@ I am working on model optimization in a project 'Data Visualization and Predicti
 
 ## Publications
 
+- Shuyi Wei, Xin You (Co-author), Yaonan Jiang, Predicting Carbon Emission at Fine Time Granularity Using 
+Autoformer, 2024 13th International Conference on Clean and Green Energy (ICCGE 2024); Paper ID: 
+GE2006, August 2024
+- Shuyi Wei, A Study on Social Engagement of RPGs, Lecture Notes in Education Psychology and Public 
+Media,13,177-186. [https://doi.org/10.54254/2753-7048/13/20230879](https://doi.org/10.54254/2753-7048/13/20230879) 
 
+
+<br>
 
 
