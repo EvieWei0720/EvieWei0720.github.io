@@ -5,7 +5,7 @@ layout: page
 # About Me
 
 <img src="https://caihanlin.com/caihanlin.jpg" class="floatpic">
-<br><br>
+<br>
 
 Here is **Evie Wei**.<br>
 
