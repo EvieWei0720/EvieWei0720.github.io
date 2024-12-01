@@ -1,21 +1,15 @@
 ---
 layout: page
-permalink: /awards/index.html
-title: Awards
+permalink: /experiences/index.html
+title: Experiences
 ---
 
-> Update: 20th Sep 2024
 
-## Scholarships
+## Industry Experiences
 
-- June 2024：**KDD-24 Undergraduate Scholarship** ($1000)<br>Only 21 undergraduates are selected around the world
-- Dec 2023：**AAAI-24 Undergraduate Scholarship** ($5000)<br>Only 18 undergraduates are selected around the world
-- Aug 2023：Innovation Scholarship ($1400)<br>One of the highest undergraduate awards at FZU
-- May 2023：XiamenAir Scholarship ($600)<br>
-- June 2024：Best Final Year Project Award of Maynooth (€500)
-- Oct 2023：Best Academic Performance of Maynooth (€100)
-- Oct 2022：Best Course Project Award of Maynooth (€100)
-- First Prize Scholarship of MIEC ($2100, **Four times**)<br>Combined degree scholarship between FZU and Maynooth<br>
+- **Business Analyst Intern**<br>Company: Analysys<br>I investigated and surveyed Agent Development Platforms, improving an AI product database. Comparative analysis table of Agent Development Platforms and enterprise competitiveness were produced. I summarized my results into a brief industry analysis.<br>
+- **Data Analyst Intern**<br>Company: JD Logistics<br>I worked in ,assisting in checking the wage data.
+
 
 ## Competitions
 
