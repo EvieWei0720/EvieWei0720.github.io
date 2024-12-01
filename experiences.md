@@ -1,19 +1,19 @@
 ---
 layout: page
-permalink: /experiences/index.html
-title: Experiences
+permalink: /academics/index.html
+title: Academics
 ---
 
 
 ## Research Projects
 
-- **Data Visualization and Prediction of Carbon Emission**<br>Led by [Prof. Shi](https://faculty.hdu.edu.cn/jsjxy/sxy2/main.htm)<br>This project aims to deal with the lack of fine-grained data prediction and deliver the urgency of reducing carbon emission via visualization.<br>I am responsible for data collection & preparation, model optimization and paper writing.Our paper tackles the problem of geographically accurate predictions by using fine-grained data, and preliminary optimizes existing methods by adapting deep learning models, such as Autoformer with time series.<br>
+- **Data Visualization and Prediction of Carbon Emission**<br>Led by [Prof. Shi](https://faculty.hdu.edu.cn/jsjxy/sxy2/main.htm)<br>This project aims to deal with the lack of fine-grained data prediction and deliver the urgency of reducing carbon emission via visualization.<br>I am responsible for data collection & preparation, model optimization and paper writing. Our paper tackles the problem of geographically accurate predictions by using fine-grained data, and preliminary optimizes existing methods by adapting deep learning models, such as Autoformer with time series.<br>
 
-- **Virtual Fit Project**<br>Guided by [Prof. Yu](https://computer.hdu.edu.cn/2021/1217/c6770a140242/page.htm) and [Prof. Gao](https://hz.xidian.edu.cn/info/1286/5200.htm)<br>Make online shopping faster! We focused on the effect of virtual fitting with improving the identification effect of clothing area.<br>I was the project manager in charge of time management and presenting the achievements regularly. Also, I did literature collection and Cocosnet algorithm implementation, assisting with web design.<br>
+- **Virtual Fit Project**<br>Supervised by [Prof. Yu](https://computer.hdu.edu.cn/2021/1217/c6770a140242/page.htm) and [Prof. Gao](https://hz.xidian.edu.cn/info/1286/5200.htm)<br>Make online shopping faster! We focused on the effect of virtual fitting with improving the identification effect of clothing area.<br>I was the project manager in charge of time management and presenting the achievements regularly. Also, I did literature collection and Cocosnet algorithm implementation, assisting with web design.<br>
 
-- **Data Visualization — Dessert Shops in New York Northern Soho**<br>Guided by [Prof. Gaffney](https://www.sps.nyu.edu/homepage/academics/faculty-directory/20072-christopher-t-gaffney.html#about20072)<br>A simple field research and data processing skills were required.<br>I interviewed dessert shops and did data cleaning, ending up with two Tableau maps, one hand-drawn timetable and a flourish chart.<br>
+- **Data Visualization — Dessert Shops in New York Northern Soho**<br>Supervised by [Prof. Gaffney](https://www.sps.nyu.edu/homepage/academics/faculty-directory/20072-christopher-t-gaffney.html#about20072)<br>A simple field research and data processing skills were required.<br>I interviewed dessert shops and did data cleaning, ending up with two Tableau maps, one hand-drawn timetable and a flourish chart.<br>
 
-- **Lip2Wav Project**<br>Guided by [Prof. Yu](https://computer.hdu.edu.cn/2021/1217/c6770a140242/page.htm)<br>We were determined to improve the localization of foreign language videos. The corresponding mouth shape with local language is our research orientation.<br>I did the front-end interface implementation.<br>
+- **Lip2Wav Project**<br>Supervised by [Prof. Yu](https://computer.hdu.edu.cn/2021/1217/c6770a140242/page.htm)<br>We were determined to improve the localization of foreign language videos. The corresponding mouth shape with local language is our research orientation.<br>I did the front-end interface implementation.<br>
 
 - **Human Motion Recognition Based on MLP Classifier**<br>Paper for the 2022 Certificate Authority Cup International mathematical contest in modeling<br>I did the feature recognition and classification based on MLP Classifier, including model assessment and optimization(overfitting problem).<br>
 
@@ -26,30 +26,12 @@ title: Experiences
 
 ## Study Abroad Experiences
 
-- Intelligent Communication Systems for Internet of Everything (Supervised by [Prof. Özgür Akan](https://www.eng.cam.ac.uk/profiles/oba21))
+- **University of California, Irvine**<br>Program: STAR Program<br>Courses: Practical Math and Statistics for Data Science, Research and Citation, Academic Speaking and Presentation Skills<br>
 
-To match the ubiquitous connectivity and heterogeneous networking characteristics of the universe, IoE also integrates new IoXs into its framework. **Internet of Nano Things (IoNT)**, for example, is poised to increase the resolution of cyber-physical interfaces and bring connectivity into uncharted territories, e.g., inside the human body, with the networks of smart biological agents. **Internet of People and Senses (IoPS)**, as another example, refers to the conceptual transfer of information and even skills between humans besides the nonverbal communication of senses, e.g., olfaction and gustation. We aim to design and implement new intelligent communication techniques for the **Internet of Everything**.
+- **New York University**<br>Program: ALI Summer Program<br>Courses: Data Visualization Techniques for Business, Exploring Writing<br>
 
-<br>
+- **University of California, Los Angeles**<br>Online Seminar: Contemporary Topics in Digital Media and Game Studies<br>
 
----
+- **National University of Singapore**<br>Online Program: Artificial Intelligence and Machine Learning — Computer Vision<br>
 
-## Degree Thesis
 
-- [Hybrid Detection Mechanism for Spoofing Attacks in Bluetooth Low Energy Networks](https://caihanlin.com/mypaper/thesis/UG-thesis.pdf)<br>**Hanlin Cai** (Advisor: Zhezhuang Xu). **Best Bachelor Thesis Award** (Top 1/300).<br>Proposal paper has been accepted by AAAI 2024<br>Expect to submit a long paper to KDD 2024.
-
-- [Industrial Inspection System based on Intelligent IoT and Bionic Quadruped Robot](https://caihanlin.com/mypaper/thesis/IP-report.pdf)<br>**Hanlin Cai** (Advisor: Zhezhuang Xu, Yuxiong Xia). Junior-year Intern Program.<br>Industrial Placement at China Huading Tech and IIoT Lab<br>
-
-  <br>
-
----
-
-## Early Project
-
-- [Proposal: Securing Billion Bluetooth Devices leveraging Learning-based Techniques](https://ojs.aaai.org/index.php/AAAI/article/view/30544)<br>*Final year project (FYP).*<br>**Hanlin Cai** (Advisors: Zhezhuang Xu, Tozammel Hossain)<br>The 38th Annual AAAI Conference on Artificial Intelligence (AAAI 2024), Undergraduate Consortium.<br>Vancouver, Canada. February, 2024.
-
-- Optimizing Traffic Sign Detection System Using Deep Residual Neural Networks Combined with Analytic Hierarchy Process Model<br>*Junior-year course design.*<br>**Hanlin Cai**, Zheng Li, Jiaqi Hu, Wei Hong Lim, Sew Sun Tiang, Mastaneh Mokayef, Chin Hong Wong<br>The 28th International Conference on Artificial Life and Robotics.<br>Beppu, Japan. February, 2023.<br>Recommended for expanding publication in the Journal of Advances in Artificial Life Robotics (EI Compendex).
-
-- An IoT Garbage Monitoring System for Effective Garbage Management<br>*First-year course design.*<br>**Hanlin Cai**, Jiaqi Hu, Zheng Li, Wei Hong Lim, Mastaneh Mokayef, Chin Hong Wong<br>The 4th International Conference on Computer Engineering, Network and Intelligent Multimedia<br>Surabaya, Indonesia. November, 2022 (EI Compendex).<br>
-
-  <br>
