@@ -13,7 +13,7 @@ title: Academics
 
 - **Data Visualization — Dessert Shops in New York Northern Soho**<br>Supervised by [Prof. Gaffney](https://www.sps.nyu.edu/homepage/academics/faculty-directory/20072-christopher-t-gaffney.html#about20072)<br>A simple field research and data processing skills were required.<br>I interviewed dessert shops and did data cleaning, ending up with two Tableau maps, one hand-drawn timetable and a flourish chart.<br>
 
-- **Lip2Wav Project**<br>Supervised by [Prof. Yu](https://computer.hdu.edu.cn/2021/1217/c6770a140242/page.htm)<br>We were determined to improve the localization of foreign language videos. The corresponding mouth shape with local language is our research orientation.<br>I did the front-end interface implementation.<br>
+- **Lip2Wav Project**<br>Supervised by [Prof. Yu](https://computer.hdu.edu.cn/2021/1217/c6770a140242/page.htm)<br>We were determined to improve the translation quality of foreign language videos. The corresponding mouth shape with local language is our research orientation.<br>I did the front-end interface implementation.<br>
 
 - **Human Motion Recognition Based on MLP Classifier**<br>Paper for the 2022 Certificate Authority Cup International mathematical contest in modeling<br>I did the feature recognition and classification based on MLP Classifier, including model assessment and optimization(overfitting problem).<br>
 
