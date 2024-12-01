@@ -13,11 +13,11 @@ title: Experiences
 
 - **Virtual Fit Project**<br>Guided by Prof. Yu and Prof. Gao<br>I was the project manager in charge of time management and presenting the achievements regularly. Also, I did literature collection and Cocosnet algorithm implementation, assisting with web design.<br>
 
-- **Human motion recognition based on MLP Classifier**<br>Paper for the 2022 Certificate Authority Cup International mathematical contest in modeling<br>I did the feature recognition and classification based on MLP Classifier, including model assessment and optimization(overfitting problem).<br>
+- **Human Motion Recognition Based on MLP Classifier**<br>Paper for the 2022 Certificate Authority Cup International mathematical contest in modeling<br>I did the feature recognition and classification based on MLP Classifier, including model assessment and optimization(overfitting problem).<br>
 
-- **Farewell to light pollution**<br>Paper for the 2023 Interdisciplinary Contest In Modeling<br>I created the LISA model, combining principal component analysis (PCA), hierarchical clustering analysis (HCA), CRITIC algorithm and analytic hierarchy process (AHP).<br>
+- **Farewell to Light Pollution**<br>Paper for the 2023 Interdisciplinary Contest In Modeling<br>I created the LISA model, combining principal component analysis (PCA), hierarchical clustering analysis (HCA), CRITIC algorithm and analytic hierarchy process (AHP).<br>
 
-- **Strive for the top student in carbon neutrality**<br>Paper for The concentrated training model of HDU for the MCM/ICM Contest of 2023<br>I was responsible for time series analysis, including the evaluation and comparison of relevant algorithms.<br>
+- **Strive for the Top Student in Carbon Neutrality**<br>Paper for The concentrated training model of HDU for the MCM/ICM Contest of 2023<br>I was responsible for time series analysis, including the evaluation and comparison of relevant algorithms.<br>
 
 - **Lip2Wav Project**<br>Guided by Prof. Yu<br>I did the front-end interface implementation.
   <br>
