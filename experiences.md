@@ -10,7 +10,7 @@ title: Experiences
 - **Business Analyst Intern**<br>Company: [Analysys](https://www.analysys.cn/)<br>I investigated and surveyed Agent Development Platforms, improving an AI product database. Comparative analysis table of Agent Development Platforms and enterprise competitiveness were produced. I summarized my results into a brief industry analysis.<br>
 
 - **Data Analyst Intern**<br>Company: [JD Logistics](https://www.jdl.com/en/profile)<br>I was a member of operation analysis group in the Supply Chain Shanghai Integrated Support Department, assisting in checking the wage data.<br>
-<br>
+
 ---
 
 ## Extracurricular Activities
