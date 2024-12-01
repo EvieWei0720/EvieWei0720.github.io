@@ -23,5 +23,5 @@ I worked in Students' Union of our department for my first two years, and I was 
 - Nov 9, 2021：Executive director of [**Welcome Party - Future Undefined**](https://space.bilibili.com/476308498/channel/seriesdetail?sid=860905), Program manager of [**Wait for You after Class**](https://www.bilibili.com/video/BV1FY4y1x7Hh/?spm_id_from=333.999.0.0&vd_source=5de035d3f605de14fdd37cb5b991745f)
 
 If you want to explore more excellent performances in our Students' Union, please visit our [**offical website**](https://space.bilibili.com/476308498). To get latest information, please follow our Wechat official account: 计小叽SU
-<img src="image/Students Union.jpg" width="150" height="30">
+<img src="/images/Students Union.png" width="150" height="30">
 <br>
