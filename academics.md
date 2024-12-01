@@ -32,5 +32,5 @@ title: Academics
 
 - **University of California, Los Angeles**<br>Online Seminar: Contemporary Topics in Digital Media and Game Studies<br>
 
-- **National University of Singapore**<br>Online Program: Artificial Intelligence and Machine Learning — Computer Vision<br>
+- **National University of Singapore**<br>Online Project: Artificial Intelligence and Machine Learning — Computer Vision<br>
 
