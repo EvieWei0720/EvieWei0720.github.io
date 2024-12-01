@@ -9,7 +9,7 @@ title: Experiences
 
 - **Data Visualization and Prediction of Carbon Emission**<br>Led by [Prof. Shi](https://faculty.hdu.edu.cn/jsjxy/sxy2/main.htm)<br>I am responsible for data collection & preparation, model optimization and paper writing.<br>Our paper tackles the problem of geographically accurate predictions by using fine-grained data, and preliminary optimizes existing methods by adapting deep learning models, such as Autoformer with time series.<br>
 
-- **Data Visualization — Dessert Shops in New York Northern Soho**<br>Guided by Prof. Gaffney<br>A simple field research and data processing skills were required. I interviewed dessert shops and did data cleaning, ending up with two Tableau maps, one hand-drawn timetable and a flourish chart.<br>
+- **Data Visualization — Dessert Shops in New York Northern Soho**<br>Guided by [Prof. Gaffney](https://www.sps.nyu.edu/homepage/academics/faculty-directory/20072-christopher-t-gaffney.html#about20072)<br>A simple field research and data processing skills were required. I interviewed dessert shops and did data cleaning, ending up with two Tableau maps, one hand-drawn timetable and a flourish chart.<br>
 
 - **Virtual Fit Project**<br>Guided by Prof. Yu and Prof. Gao<br>I was the project manager in charge of time management and presenting the achievements regularly. Also, I did literature collection and Cocosnet algorithm implementation, assisting with web design.<br>
 
