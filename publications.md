@@ -1,22 +1,30 @@
 ---
 layout: page
 permalink: /publications/index.html
-title: Publications
+title: Experiences
 ---
 
-> (†: equal contribution, ~: corresponding author)
 
-## Conference Paper
+## Research Projects
 
-- [Securing Billion Bluetooth Low Energy Devices Using Cyber-Physical Analysis and Deep Learning Techniques](https://www.researchgate.net/publication/384046364/)<br>**Hanlin Cai**†, Yuchen Fang†, Jiacheng Huang, Honglin Liao, Meng Yuan, Zhezhuang Xu~<br>The 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2024), Undergraduate Consortium.<br>Barcelona, Spain. August, 2024.<br>
+- **Data Visualization and Prediction of Carbon Emission**<br>Led by Prof. Shi<br>I am responsible for data collection & preparation, model optimization and paper writing.<br>Our paper tackles the problem of geographically accurate predictions by using fine-grained data, and preliminary optimizes existing methods by adapting deep learning models, such as Autoformer with time series.<br>
 
-- [Poster: Hybrid Detection Mechanism for Spoofing Attacks in Bluetooth Low Energy Networks](https://dl.acm.org/doi/abs/10.1145/3643832.3661434)<br>**Hanlin Cai**, Yuchen Fang, Jiacheng Huang, Meng Yuan, Zhezhuang Xu<br>The 22nd ACM International Conference on Mobile Systems, Applications, and Services (MobiSys 2024), Poster Session.<br>Tokyo, Japan. June, 2024.
+- **Data Visualization — Dessert Shops in New York Northern Soho**<br>Guided by Prof. Gaffney<br>A simple field research and data processing skills were required. I interviewed dessert shops and did data cleaning, ending up with two Tableau maps, one hand-drawn timetable and a flourish chart.<br>
 
+- **Virtual Fit Project**<br>Guided by Prof. Yu and Prof. Gao<br>I was the project manager in charge of time management and presenting the achievements regularly. Also, I did literature collection and Cocosnet algorithm implementation, assisting with web design.<br>
+
+- **Human motion recognition based on MLP Classifier**<br>Paper for the 2022 Certificate Authority Cup International mathematical contest in modeling<br>I did the feature recognition and classification based on MLP Classifier, including model assessment and optimization(overfitting problem).<br>
+
+- **Farewell to light pollution**<br>Paper for the 2023 Interdisciplinary Contest In Modeling<br>I created the LISA model, combining principal component analysis (PCA), hierarchical clustering analysis (HCA), CRITIC algorithm and analytic hierarchy process (AHP).<br>
+
+- **Strive for the top student in carbon neutrality**<br>Paper for The concentrated training model of HDU for the MCM/ICM Contest of 2023<br>I was responsible for time series analysis, including the evaluation and comparison of relevant algorithms.<br>
+
+- **Lip2Wav Project**<br>Guided by Prof. Yu<br>I did the front-end interface implementation.
   <br>
 
 ---
 
-## Ongoing Project
+## Study Abroad Experiences
 
 - Intelligent Communication Systems for Internet of Everything (Supervised by [Prof. Özgür Akan](https://www.eng.cam.ac.uk/profiles/oba21))
 
