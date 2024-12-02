@@ -5,7 +5,7 @@ title: Hobbies
 ---
 
 ## Music
-<!--<img src="/images/tickets.jpg" width="500" height="400" class="floatpic">
+<!--<img src="/images/tickets.jpg" width="500" height=auto>
 
 <div class="two">
 <img src="/images/phantom.jpg" width="500" height=auto>
@@ -15,7 +15,7 @@ title: Hobbies
 </div>-->
 <body>
    <figure>
-    <img src="/images/tickets.jpg" width="400" height=auto class="floatpic">
+    <img src="/images/tickets.jpg" width="400" height=auto>
     <figcaption>Pictures of Tickets and Invitations</figcaption>
   </figure>
 </body>
