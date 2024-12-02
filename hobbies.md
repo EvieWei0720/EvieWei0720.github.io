@@ -19,7 +19,7 @@ title: Hobbies
    As a child, I learned to play the piano and thus became interested in music. When I went to high school, I met my friends and we formed a band. We had some small live performances together. <br>
    After I enrolled in university, I joined a music club and learned post-production, including recording and sound modification. But I prefer live stage performances, so I spend most of my free time organizing parties. I was so grateful that our students' union gave me a chance to follow my passion. To offer high-quality performances, I watched lots of stage performances to draw inspiration. Currently, I love to watch musicals. 'Phantom of the Opera' is my favorite! If you are interested in musicals, we can go to the theater together!
 <div class="image-container">
-   <img src="/images/phantom.jpg" width="500" height=auto class="floatpic">
+   <img src="/images/phantom.jpg" width="500" height=auto>
    <span align="center" class="image-text">First Scene of 'Phantom of the Opera'</span>
 </div>
 
