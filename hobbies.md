@@ -26,7 +26,16 @@ After I enrolled in university, I joined a music club and learned post-productio
    <img src="/images/phantom.jpg" width="300" height=auto>
    <span align="center" class="image-text">First Scene of 'Phantom of the Opera'</span>
 </div>
+<figure>
 
+
+    <img src="/images/phantom.jpg" alt="描述图片内容的文字">
+
+
+    <figcaption>这是图片的说明文字</figcaption>
+
+
+</figure>
 ## Workshop
 
 <div class="third">
