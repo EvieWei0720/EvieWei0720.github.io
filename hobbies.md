@@ -30,19 +30,18 @@ After I enrolled in university, I joined a music club and learned **post-product
 
 ## LEGO
 
-
 <body>
-   <div class="third" style="display: flex; justify-content: space-between; gap: 0px; text-align: center;">
+   <div class="third" style="display: flex; justify-content: space-between; gap: 20px; text-align: center;">
       <figure style="flex: 1;">
-         <img src="/images/phantom.jpg" style="display: block; margin: 0 auto;">
+         <img src="/images/prelection1.JPG" width="600" style="display: block; margin: 0 auto;">
          <figcaption>First Setting of 'Phantom of the Opera'</figcaption>
       </figure>
       <figure style="flex: 1;">
-         <img src="/images/phantom.jpg" style="display: block; margin: 0 auto;">
+         <img src="/images/prelection1.JPG" width="600" style="display: block; margin: 0 auto;">
          <figcaption>First Setting of 'Phantom of the Opera'</figcaption>
       </figure>
       <figure style="flex: 1;">
-         <img src="/images/phantom.jpg" style="display: block; margin: 0 auto;">
+         <img src="/images/prelection1.JPG" width="600" style="display: block; margin: 0 auto;">
          <figcaption>First Setting of 'Phantom of the Opera'</figcaption>
       </figure>
    </div>
