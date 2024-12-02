@@ -13,7 +13,7 @@ title: Hobbies
 <img src="/images/phantom.jpg" width="500" height=auto>
 </div>
 <div class="image-container">
-   <img src="/images/tickets.jpg" width="500" height="400">
+   <img src="/images/tickets.jpg" width="500" height="700">
    <span class="image-text">Pictures of Tickets and Invitations</span>
 </div>
 Pictures of Tickets and Invitations  First Scene of 'Phantom of the Opera'
