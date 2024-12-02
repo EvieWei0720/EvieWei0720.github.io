@@ -13,13 +13,13 @@ title: Hobbies
 <div class="image-container">
    <img src="/images/tickets.jpg" width="500" height="600" class="floatpic">
 </div>-->
+<br>
 <body>
    <figure style="text-align: center; float: right; margin: 0 20px 20px 0;">
     <img src="/images/tickets.jpg" width="300" style="display: block;">
     <figcaption>Pictures of Tickets and Invitations</figcaption>
   </figure>
 </body>
-<br>
 
 Music is my longest and biggest hobby. 
 
@@ -37,7 +37,7 @@ After I enrolled in university, I joined a music club and learned post-productio
 
 
 
-## Workshop
+## LEGO
 
 <div class="third">
 <img src="/images/prelection1.JPG">
