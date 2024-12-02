@@ -5,6 +5,19 @@ title: Academics
 ---
 
 
+## Publications
+
+- **Predicting Carbon Emission at Fine Time Granularity Using Autoformer**<br>Shuyi Wei, Xin You (Co-author), Yaonan Jiang<br>2024 13th International Conference on Clean and Green Energy (ICCGE 2024); Paper ID: 
+GE2006, August 2024<br>
+
+- **[A Study on Social Engagement of RPGs](https://doi.org/10.54254/2753-7048/13/20230879)**<br>Shuyi Wei<br>Lecture Notes in Education Psychology and Public 
+Media,13,177-186. 
+
+
+<br>
+
+---
+
 ## Research Projects
 
 - **Data Visualization and Prediction of Carbon Emission**<br>Led by [Prof. Shi](https://faculty.hdu.edu.cn/jsjxy/sxy2/main.htm)<br>This project aims to deal with the lack of fine-grained data prediction and deliver the urgency of reducing carbon emission via visualization.<br>I am responsible for data collection & preparation, model optimization and paper writing. Our paper tackles the problem of geographically accurate predictions by using fine-grained data, and preliminary optimizes existing methods by adapting deep learning models, such as Autoformer with time series.<br>
