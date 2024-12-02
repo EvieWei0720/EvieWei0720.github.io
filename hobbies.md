@@ -26,16 +26,22 @@ After I enrolled in university, I joined a music club and learned post-productio
    <img src="/images/phantom.jpg" width="300" height=auto>
    <span align="center" class="image-text">First Scene of 'Phantom of the Opera'</span>
 </div>
-<figure>
 
-
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>图片下方添加文字</title>
+</head>
+<body>
+  <figure>
     <img src="/images/phantom.jpg" alt="描述图片内容的文字">
-
-
     <figcaption>这是图片的说明文字</figcaption>
+  </figure>
+</body>
+</html>
 
 
-</figure>
 ## Workshop
 
 <div class="third">
