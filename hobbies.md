@@ -11,7 +11,6 @@ title: Hobbies
     <figcaption>Pictures of Tickets and Invitations</figcaption>
   </figure>
 </body>
-
 <br>
 
 Music is my longest and biggest hobby. 
