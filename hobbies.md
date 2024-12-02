@@ -47,6 +47,6 @@ After I enrolled in university, I joined a music club and learned **post-product
    </div>
 </body>
 
-I am a huge fan of LEGO! I made different kinds of LEGO very year. Since my family moved several times, many models I built as a kid were missing. Those are current works I made with my little brother.
+I am a huge fan of LEGO! I made different kinds of LEGO very year. Since my family moved several times, many models I built before are missing. Those are current works I made with my little brother.
 
 
