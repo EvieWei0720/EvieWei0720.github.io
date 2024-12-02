@@ -12,7 +12,6 @@ title: Hobbies
 </div>-->
 <div class="image-container">
    <img src="/images/tickets.jpg" width="500" height="600" class="floatpic">
-   <span align="center" class="image-text">Pictures of Tickets and Invitations</span>
 </div>
 
 <br>
