@@ -6,14 +6,14 @@ title: Hobbies
 
 # Hobbies
 
-## Swimming & Surfing
+## Music
 
 <div class="third">
 <img src="/images/swimming2.JPG">
 <img src="/images/swimming.JPG">
 <img src="/images/surfing1.JPG">
 </div>
-<br>Swimming removes my worries, refreshes my body, and brings me courage to address any challenges. I extremely enjoy the feeling of being immersed in the water. Besides, I am a member of the Swimming Team at Fuzhou University, where I meet many sincere friends. I have reached **China National Second-level athlete Standard** in 50m breaststroke and won **Five Gold Medals** during my 15-year swimming career. Recently, I am also keen on surfing.
+<br>Music is my longest and biggest hobby. As a child, I learned to play the piano and thus became interested in music. When I went to high school, I met my friends and we formed a band. We had some small live performances together. After I enrolled in university, I joined a music club and learned post-production, including recording and sound modification. But I prefer live stage performances, so I spend most of my free time organizing parties. I was so grateful that our students' union gave me a chance to follow my passion. To offer high-quality performances, I watched lots of stage performances to draw inspiration. Currently, I love to watch musicals. 'Phantom of the Opera' is my favorite!
 
 ## Workshop
 
