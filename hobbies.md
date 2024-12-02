@@ -31,28 +31,24 @@ After I enrolled in university, I joined a music club and learned **post-product
 
 ## LEGO
 
-<div class="third">
-<img src="/images/prelection1.JPG">
-<img src="/images/speech1.JPG">
-<img src="/images/speech3.JPG">
-</div>
 <br>I am a huge fan of LEGO! I made different kinds of LEGO very year. Since my family moved several times, many models I built as a kid were missing. Those are current works I made with my little brother.
 <body>
-   <div class="third">
-   <figure style="text-align: center;">
-    <img src="/images/prelection1.JPG" width="400" style="display: block; margin: 0 auto;">
-    <figcaption>First Setting of 'Phantom of the Opera'</figcaption>
-  </figure>
-      <figure style="text-align: center;">
-    <img src="/images/prelection1.JPG" width="400" style="display: block; margin: 0 auto;">
-    <figcaption>First Setting of 'Phantom of the Opera'</figcaption>
-  </figure>
-        <figure style="text-align: center;">
-    <img src="/images/prelection1.JPG" width="400" style="display: block; margin: 0 auto;">
-    <figcaption>First Setting of 'Phantom of the Opera'</figcaption>
-  </figure>
+   <div class="third" style="display: flex; justify-content: space-between; gap: 20px; text-align: center;">
+      <figure style="flex: 1;">
+         <img src="/images/prelection1.JPG" width="400" style="display: block; margin: 0 auto;">
+         <figcaption>First Setting of 'Phantom of the Opera'</figcaption>
+      </figure>
+      <figure style="flex: 1;">
+         <img src="/images/prelection1.JPG" width="400" style="display: block; margin: 0 auto;">
+         <figcaption>First Setting of 'Phantom of the Opera'</figcaption>
+      </figure>
+      <figure style="flex: 1;">
+         <img src="/images/prelection1.JPG" width="400" style="display: block; margin: 0 auto;">
+         <figcaption>First Setting of 'Phantom of the Opera'</figcaption>
+      </figure>
    </div>
 </body>
+
 
 
 
