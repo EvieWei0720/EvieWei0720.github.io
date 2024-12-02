@@ -29,9 +29,9 @@ After I enrolled in university, I joined a music club and learned post-productio
 
 
 <body>
-  <figure>
-    <img src="/images/phantom.jpg" width="400" height=auto>
-    <figcaption>First Scene of 'Phantom of the Opera'</figcaption>
+   <figure style="text-align: center;">
+    <img src="/images/phantom.jpg" width="400" style="display: block; margin: 0 auto;">
+    <figcaption>First Setting of 'Phantom of the Opera'</figcaption>
   </figure>
 </body>
 
