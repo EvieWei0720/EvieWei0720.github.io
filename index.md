@@ -21,7 +21,4 @@ I am working on model optimization in a project 'Data Visualization and Predicti
 - Data Mining
 - Optimization
 - Machine Learning & Deep Learning
-
 <br>
-
-
