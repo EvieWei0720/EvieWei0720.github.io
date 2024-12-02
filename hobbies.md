@@ -9,11 +9,16 @@ title: Hobbies
 
 <div class="two">
 <img src="/images/phantom.jpg" width="500" height=auto>
-</div>-->
+</div>
 <div class="image-container">
    <img src="/images/tickets.jpg" width="500" height="600" class="floatpic">
-</div>
-
+</div>-->
+<body>
+   <figure>
+    <img src="/images/tickets.jpg" width="400" height=auto class="floatpic">
+    <figcaption>Pictures of Tickets and Invitations</figcaption>
+  </figure>
+</body>
 <br>
 
 Music is my longest and biggest hobby. 
@@ -24,10 +29,6 @@ After I enrolled in university, I joined a music club and learned post-productio
 
 
 <body>
-   <figure>
-    <img src="/images/tickets.jpg" width="400" height=auto class="floatpic">
-    <figcaption>Pictures of Tickets and Invitations</figcaption>
-  </figure>
   <figure>
     <img src="/images/phantom.jpg" width="400" height=auto>
     <figcaption>First Scene of 'Phantom of the Opera'</figcaption>
