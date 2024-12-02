@@ -30,7 +30,7 @@ After I enrolled in university, I joined a music club and learned post-productio
 
 <body>
    <figure>
-    <img src="/images/tickets.jpg" width="400" height=auto>
+    <img src="/images/tickets.jpg" width="400" height=auto class="floatpic">
     <figcaption>Pictures of Tickets and Invitations</figcaption>
   </figure>
   <figure>
