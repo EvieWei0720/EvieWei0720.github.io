@@ -12,6 +12,10 @@ title: Hobbies
 <img src="/images/tickets.jpg" width="500" height="400">
 <img src="/images/phantom.jpg" width="500" height=auto>
 </div>
+<div class="image-container">
+   <img src="/images/tickets.jpg" width="500" height="400">
+   <span class="image-text">Pictures of Tickets and Invitations</span>
+</div>
 Pictures of Tickets and Invitations  First Scene of 'Phantom of the Opera'
 <br>Music is my longest and biggest hobby. <br>
 As a child, I learned to play the piano and thus became interested in music. When I went to high school, I met my friends and we formed a band. We had some small live performances together. <br>
