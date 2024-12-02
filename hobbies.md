@@ -14,8 +14,8 @@ title: Hobbies
    <img src="/images/tickets.jpg" width="500" height="600" class="floatpic">
 </div>-->
 <body>
-   <figure>
-    <img src="/images/tickets.jpg" width="400" height=auto>
+   <figure style="text-align: center;">
+    <img src="/images/tickets.jpg" width="400" style="display: block; margin: 0 auto;">
     <figcaption>Pictures of Tickets and Invitations</figcaption>
   </figure>
 </body>
