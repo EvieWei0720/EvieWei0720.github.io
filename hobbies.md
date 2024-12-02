@@ -30,8 +30,8 @@ After I enrolled in university, I joined a music club and learned post-productio
 
 <body>
   <figure>
-    <img src="/images/phantom.jpg">
-    <figcaption>First Scene of 'Phantom of the Opera'</figcaption>
+    <img src="/images/phantom.jpg" width="500" height=auto>
+    <figcaption align="center">First Scene of 'Phantom of the Opera'</figcaption>
   </figure>
 </body>
 
