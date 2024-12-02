@@ -12,6 +12,7 @@ title: Hobbies
   </figure>
 </body>
 
+<br>
 
 Music is my longest and biggest hobby. 
 
