@@ -6,13 +6,15 @@ title: Hobbies
 
 ## Music
 <body>
-   <figure style="text-align: center; float: right; margin: 25px 0 0 25px;">
+   <figure style="text-align: center; float: right; margin: 40px 0 0 25px;">
     <img src="/images/tickets.jpg" width="300" style="display: block;">
     <figcaption>Pictures of Tickets and Invitations</figcaption>
   </figure>
 </body>
 
-<br>Music is my longest and biggest hobby. 
+<br>
+
+Music is my longest and biggest hobby. 
 
 As a child, I learned to play the **piano** and thus became interested in music. When I went to high school, I met my friends and we formed a **band**. We had some small live performances together.
 
