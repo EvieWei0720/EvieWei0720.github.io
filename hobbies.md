@@ -5,14 +5,7 @@ title: Hobbies
 ---
 
 ## Music
-<!--<img src="/images/tickets.jpg" width="500" height=auto>
 
-<div class="two">
-<img src="/images/phantom.jpg" width="500" height=auto>
-</div>
-<div class="image-container">
-   <img src="/images/tickets.jpg" width="500" height="600" class="floatpic">
-</div>-->
 <br>
 <body>
    <figure style="text-align: center; float: right; margin: 0 20px 20px 0;">
@@ -21,6 +14,7 @@ title: Hobbies
   </figure>
 </body>
 <br>
+
 Music is my longest and biggest hobby. 
 
 As a child, I learned to play the **piano** and thus became interested in music. When I went to high school, I met my friends and we formed a **band**. We had some small live performances together.
