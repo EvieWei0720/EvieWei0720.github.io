@@ -6,8 +6,8 @@ title: Hobbies
 
 ## Music
 <body>
-   <figure style="text-align: center; float: right; margin: 25px 0 5px 25px;">
-    <img src="/images/tickets.jpg" width="250" style="display: block;">
+   <figure style="text-align: center; float: right; margin: 25px 0 10px 25px;">
+    <img src="/images/tickets.jpg" width="280" style="display: block;">
     <figcaption>Pictures of Tickets and Invitations</figcaption>
   </figure>
 </body>
