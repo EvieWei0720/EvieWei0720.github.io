@@ -15,7 +15,7 @@ title: Hobbies
 </div>-->
 <body>
    <figure style="text-align: center; float: right; margin: 0 20px 20px 0;">
-    <img src="/images/tickets.jpg" width="200" style="display: block;">
+    <img src="/images/tickets.jpg" width="300" style="display: block;">
     <figcaption>Pictures of Tickets and Invitations</figcaption>
   </figure>
 </body>
