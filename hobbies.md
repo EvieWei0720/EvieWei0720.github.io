@@ -35,20 +35,19 @@ After I enrolled in university, I joined a music club and learned **post-product
 <body>
    <div class="third" style="display: flex; justify-content: space-between; gap: 0px; text-align: center;">
       <figure style="flex: 1;">
-         <img src="/images/phantom.jpg" width="400" style="display: block; margin: 0 auto;">
+         <img src="/images/phantom.jpg" style="display: block; margin: 0 auto;">
          <figcaption>First Setting of 'Phantom of the Opera'</figcaption>
       </figure>
       <figure style="flex: 1;">
-         <img src="/images/phantom.jpg" width="400" style="display: block; margin: 0 auto;">
+         <img src="/images/phantom.jpg" style="display: block; margin: 0 auto;">
          <figcaption>First Setting of 'Phantom of the Opera'</figcaption>
       </figure>
       <figure style="flex: 1;">
-         <img src="/images/phantom.jpg" width="400" style="display: block; margin: 0 auto;">
+         <img src="/images/phantom.jpg" style="display: block; margin: 0 auto;">
          <figcaption>First Setting of 'Phantom of the Opera'</figcaption>
       </figure>
    </div>
 </body>
-
 <br>I am a huge fan of LEGO! I made different kinds of LEGO very year. Since my family moved several times, many models I built as a kid were missing. Those are current works I made with my little brother.
 
 
