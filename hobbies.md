@@ -4,8 +4,6 @@ permalink: /hobbies/index.html
 title: Hobbies
 ---
 
-# Hobbies
-
 ## Music
 <!--<img src="/images/tickets.jpg" width="500" height="400" class="floatpic">
 
@@ -14,7 +12,7 @@ title: Hobbies
 </div>-->
 <div class="image-container">
    <img src="/images/tickets.jpg" width="500" height="600" class="floatpic">
-   <span class="image-text">Pictures of Tickets and Invitations</span>
+   <span align="center" class="image-text">Pictures of Tickets and Invitations</span>
 </div>
 Pictures of Tickets and Invitations  First Scene of 'Phantom of the Opera'
 <br>Music is my longest and biggest hobby. <br>
