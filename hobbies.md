@@ -9,7 +9,7 @@ title: Hobbies
 ## Music
 
 <div class="two">
-<img src="/images/tickets.jpg" width="500" height="400">
+<img src="/images/tickets.jpg" width="500" height="400"class="floatpic">
 <img src="/images/phantom.jpg" width="500" height=auto>
 </div>
 <div class="image-container">
