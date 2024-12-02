@@ -11,9 +11,8 @@ title: Hobbies
     <figcaption>Pictures of Tickets and Invitations</figcaption>
   </figure>
 </body>
-<br>
 
-Music is my longest and biggest hobby. 
+Music is my longest and biggest hobby. <br>
 
 As a child, I learned to play the **piano** and thus became interested in music. When I went to high school, I met my friends and we formed a **band**. We had some small live performances together.
 
