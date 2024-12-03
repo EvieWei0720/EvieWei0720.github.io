@@ -3,7 +3,7 @@ layout: page
 permalink: /hobbies/index.html
 title: Hobbies
 ---
-<audio controls>
+<audio autoplay loop hidden>
   <source src="/audio/12.24.MP3" type="audio/mp3">
   Your browser does not support the audio element.
 </audio>
