@@ -34,7 +34,7 @@ After I enrolled in university, I joined a music club and learned **post-product
 ## LEGO
 
 <body>
-   <div class="third" style="display: flex; text-align: center;">
+   <div class="third" style="text-align: center;">
       <figure style="flex: 1;">
          <img src="/images/parrot.jpg" style="display: block; margin: 0 auto;">
          <figcaption>Parrot</figcaption>
