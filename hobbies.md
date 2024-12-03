@@ -75,7 +75,7 @@ I am a huge fan of LEGO! I can calm myself down and release my stress while focu
 
 <center>
     <img src="/images/christmas.jpg" width="150" height="auto">
-    &nbsp;&nbsp;&nbsp;&nbsp;<font color="#990000" size="5" >MERRY CHRISTMAS!</font>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color="#990000" size="5" >MERRY CHRISTMAS!</font>
   </center>
 
 <br>
