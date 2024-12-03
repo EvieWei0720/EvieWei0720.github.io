@@ -33,15 +33,15 @@ After I enrolled in university, I joined a music club and learned **post-product
 <body>
    <div class="third" style="display: flex; text-align: center;">
       <figure style="flex: 1;">
-         <img src="/images/parrot.jpg" width="1600" style="display: block; margin: 0 auto;">
+         <img src="/images/parrot.jpg" style="display: block; margin: 0 auto;">
          <figcaption>Parrot</figcaption>
       </figure>
       <figure style="flex: 1;">
-         <img src="/images/owl.jpg" width="1600" style="display: block; margin: 0 auto;">
+         <img src="/images/owl.jpg" style="display: block; margin: 0 auto;">
          <figcaption>Owl</figcaption>
       </figure>
       <figure style="flex: 1;">
-         <img src="/images/flower.jpg" width="1600" style="display: block; margin: 0 auto;">
+         <img src="/images/flower.jpg" style="display: block; margin: 0 auto;">
          <figcaption>Orchid</figcaption>
       </figure>
    </div>
