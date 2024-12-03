@@ -37,14 +37,13 @@ After I enrolled in university, I joined a music club and learned **post-product
 <table style="width:100%; text-align: center;">
     <tr>
       <td><figure>
-        <img src="/images/parrot.jpg" width="500" height="auto">
+        <img src="/images/parrot.jpg" width="550" height="auto">
         <figcaption>Parrot</figcaption>
       </figure></td>
       <td><figure>
-        <img src="/images/owl.jpg" width="500" height="auto">
+        <img src="/images/owl.jpg" width="550" height="auto">
         <figcaption>Owl</figcaption>
       </figure></td>
-      
     </tr>
   </table>
 <p>I am a huge fan of LEGO! I can calm myself down and release my stress while focusing on LEGO. I made different kinds of LEGO very year. Since my family moved several times, many models I built before are missing. Those are current works I made with my little brother.</p>
