@@ -35,16 +35,16 @@ After I enrolled in university, I joined a music club and learned **post-product
 
 <body>
    <div class="third">
-      <figure style="flex: 1;">
-         <img src="/images/parrot.jpg" style="margin: 0 auto;">
+      <figure>
+         <img src="/images/parrot.jpg">
          <figcaption>Parrot</figcaption>
       </figure>
-      <figure style="flex: 1;">
-         <img src="/images/owl.jpg" style="margin: 0 auto;">
+      <figure>
+         <img src="/images/owl.jpg">
          <figcaption>Owl</figcaption>
       </figure>
-      <figure style="flex: 1;">
-         <img src="/images/flower.jpg" style="margin: 0 auto;">
+      <figure>
+         <img src="/images/flower.jpg">
          <figcaption>Orchid</figcaption>
       </figure>
    </div>
