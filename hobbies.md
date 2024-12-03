@@ -53,4 +53,37 @@ After I enrolled in university, I joined a music club and learned **post-product
 I am a huge fan of LEGO! I can calm myself down and release my stress while focusing on LEGO. I made different kinds of LEGO very year. Since my family moved several times, many models I built before are missing. Those are current works I made with my little brother.
 
 > BGM: 12월 24일 - IU (D.ear Cover)
-MARRY CHRISTMAS!
+
+##MARRY CHRISTMAS!
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Center Text</title>
+  <style>
+    /* Styles for the container row */
+    .row {
+      display: flex;
+      justify-content: center; /* Centers content horizontally */
+      align-items: center; /* Centers content vertically (optional) */
+      height: 100vh; /* Makes the container take up the full height of the viewport */
+    }
+
+    /* Styles for the text */
+    .text {
+      font-size: 3rem; /* Make the text larger */
+      font-weight: bold;
+      color: red; /* Change the color to red (optional) */
+    }
+  </style>
+</head>
+<body>
+
+  <div class="row">
+    <div class="text">
+      Merry Christmas
+    </div>
+  </div>
+
+</body>
+</html>
