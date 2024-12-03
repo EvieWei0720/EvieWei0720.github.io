@@ -2,7 +2,7 @@
 layout: page
 ---
 
-<audio controls>
+<audio autoplay loop hidden>
   <source src="/audio/12.24.mp3" type="audio/mp3">
   Your browser does not support the audio element.
 </audio>
