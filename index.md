@@ -2,6 +2,11 @@
 layout: page
 ---
 
+<audio controls>
+  <source src=".mp3" type="audio/mp3">
+  Your browser does not support the audio element.
+</audio>
+
 # About Me
 
 <!--<img src="https://caihanlin.com/caihanlin.jpg" class="floatpic">-->
