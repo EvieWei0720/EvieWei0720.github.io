@@ -51,7 +51,7 @@ After I enrolled in university, I joined a music club and learned **post-product
 </body>
 
 I am a huge fan of LEGO! I can calm myself down and release my stress while focusing on LEGO. I made different kinds of LEGO very year. Since my family moved several times, many models I built before are missing. Those are current works I made with my little brother.
-
+<br>
 
 **<font color="#990000" align="center">MARRY CHRISTMAS!</font>**<img src="/images/christmas.jpg" width="150" height=auto>
 
