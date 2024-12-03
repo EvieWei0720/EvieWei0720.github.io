@@ -35,15 +35,15 @@ After I enrolled in university, I joined a music club and learned **post-product
 <table style="width:100%; text-align: center;">
     <tr>
       <td><figure>
-        <img src="/images/parrot.jpg" width="150" height="auto">
+        <img src="/images/parrot.jpg" width="200" height="auto">
         <figcaption>Parrot</figcaption>
       </figure></td>
       <td><figure>
-        <img src="/images/owl.jpg" width="150" height="auto">
+        <img src="/images/owl.jpg" width="200" height="auto">
         <figcaption>Owl</figcaption>
       </figure></td>
       <td><figure>
-        <img src="/images/flower.jpg" width="150" height="auto">
+        <img src="/images/flower.jpg" width="200" height="auto">
         <figcaption>Orchid</figcaption>
       </figure></td>
     </tr>
