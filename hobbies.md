@@ -37,11 +37,11 @@ After I enrolled in university, I joined a music club and learned **post-product
 <table style="width:100%; text-align: center;">
     <tr>
       <td><figure>
-        <img src="/images/parrot.jpg" width="200" height="auto">
+        <img src="/images/parrot.jpg" width="500" height="auto">
         <figcaption>Parrot</figcaption>
       </figure></td>
       <td><figure>
-        <img src="/images/owl.jpg" width="200" height="auto">
+        <img src="/images/owl.jpg" width="500" height="auto">
         <figcaption>Owl</figcaption>
       </figure></td>
       
