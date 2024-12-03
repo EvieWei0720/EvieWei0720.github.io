@@ -54,7 +54,10 @@ I am a huge fan of LEGO! I can calm myself down and release my stress while focu
 <br>
 <br>
 
-<img src="/images/christmas.jpg" width="150" height=auto>**<font color="#990000" align="center">MARRY CHRISTMAS!</font>**
+<center>
+    <img src="/images/christmas.jpg" width="150" height="auto">
+    <font color="#990000" size="5" face="Arial">Merry Christmas!</font>
+  </center>
 
 
 > BGM: 12월 24일 - IU (D.ear Cover)
