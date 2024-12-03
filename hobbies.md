@@ -42,10 +42,7 @@ After I enrolled in university, I joined a music club and learned **post-product
         <img src="/images/owl.jpg" width="200" height="auto">
         <figcaption>Owl</figcaption>
       </figure></td>
-      <td><figure>
-        <img src="/images/flower.jpg" width="200" height="auto">
-        <figcaption>Orchid</figcaption>
-      </figure></td>
+      
     </tr>
   </table>
 I am a huge fan of LEGO! I can calm myself down and release my stress while focusing on LEGO. I made different kinds of LEGO very year. Since my family moved several times, many models I built before are missing. Those are current works I made with my little brother.
