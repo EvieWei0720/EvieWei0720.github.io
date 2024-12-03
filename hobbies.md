@@ -14,7 +14,7 @@ title: Hobbies
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Music is my longest and biggest hobby. <br>
 
-As a child, I learned to play the **piano** and thus became interested in music. When I went to high school, I met my friends and we formed a **band**. We had some small live performances together.
+As a child, I learned to play the **piano** and thus became interested in music. When I went to high school, I met my friends and we formed a **band**. We had some small live performances together. After graduation, I learned **classical guitar**, just playing simple songs.
 
 After I enrolled in university, I joined a music club and learned **post-production**, including recording and sound modification. But I prefer **live stage performances**, so I spend most of my free time organizing parties. I was so grateful that our students' union gave me a chance to follow my passion. To offer high-quality performances, I watched lots of stage performances to draw inspiration. Currently, I love to watch **musicals**. 'Phantom of the Opera' is my favorite! If you are interested in musicals, we can go to the theater together!
 
@@ -47,6 +47,6 @@ After I enrolled in university, I joined a music club and learned **post-product
    </div>
 </body>
 
-I am a huge fan of LEGO! I made different kinds of LEGO very year. Since my family moved several times, many models I built before are missing. Those are current works I made with my little brother.
+I am a huge fan of LEGO! I can calm myself down and release my stress while focusing on LEGO. I made different kinds of LEGO very year. Since my family moved several times, many models I built before are missing. Those are current works I made with my little brother.
 
 
