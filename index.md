@@ -3,7 +3,7 @@ layout: page
 ---
 
 <audio controls>
-  <source src=".mp3" type="audio/mp3">
+  <source src="/audio/12.24.mp3" type="audio/mp3">
   Your browser does not support the audio element.
 </audio>
 
