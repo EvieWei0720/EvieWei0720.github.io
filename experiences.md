@@ -17,8 +17,8 @@ title: Experiences
 
 I worked in Students' Union of our department for my first two years, and I was so lucky that I was promoted to the leader of Literature and Art Department in my second year!
 
-- May 20, 2023：Chief director of [**#11 'Book of Time' Party - Dream Maker**](https://www.bilibili.com/video/BV1eo4y1V7gM/?spm_id_from=333.999.section.playall&vd_source=5de035d3f605de14fdd37cb5b991745f)
-- Nov 26, 2022：Chief director of [**Welcome Party - Unbound**](https://www.bilibili.com/video/BV13M411k7Hr/?spm_id_from=333.999.0.0&vd_source=5de035d3f605de14fdd37cb5b991745f)
+- May 20, 2023：Chief director of [**#11 'Book of Time' Party - Dream Maker**](https://www.bilibili.com/video/BV1eh4y1x7ss?spm_id_from=333.788.videopod.sections&vd_source=5de035d3f605de14fdd37cb5b991745f)
+- Nov 26, 2022：Chief director of [**Welcome Party - Unbound**](https://www.bilibili.com/video/BV1rP411u7w9?spm_id_from=333.788.videopod.sections&vd_source=5de035d3f605de14fdd37cb5b991745f)
 - March 12, 2022：Director of the 2022 Top Ten Singers
 - Nov 9, 2021：Executive director of [**Welcome Party - Future Undefined**](https://space.bilibili.com/476308498/channel/seriesdetail?sid=860905), Program manager of [**Wait for You after Class**](https://www.bilibili.com/video/BV1FY4y1x7Hh/?spm_id_from=333.999.0.0&vd_source=5de035d3f605de14fdd37cb5b991745f)
 
