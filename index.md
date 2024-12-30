@@ -7,7 +7,7 @@ layout: page
 <!--<img src="https://caihanlin.com/caihanlin.jpg" class="floatpic">-->
 <br>
 
-Here is **Evie Wei**. Welcome to my personal website!<br>
+Here is **Evie Wei**. Welcome to my website!<br>
 
 I am an undergraduate majoring in Computer Science and Technology in Hangzhou Dianzi University. Recently, I have been to the University of California, Irvine as an exchange student.
 
