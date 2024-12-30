@@ -53,7 +53,7 @@ After I enrolled in university, I joined a music club and learned **post-product
 
 <center>
     <img src="/images/christmas.jpg" width="150" height="auto">
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color="#990000" size="5" >MERRY CHRISTMAS!</font>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color="#990000" size="5" >HAPPY HOLIDAY!</font>
   </center>
 
 <br>
