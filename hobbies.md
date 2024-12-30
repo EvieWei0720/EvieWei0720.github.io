@@ -4,7 +4,7 @@ permalink: /hobbies/index.html
 title: Hobbies
 ---
 <audio autoplay loop hidden>
-  <source src="/audio/12.24.MP3" type="audio/mp3">
+  <source src="/audio/Seasons of Love.MP3" type="audio/mp3">
   Your browser does not support the audio element.
 </audio>
 ## Music
@@ -57,4 +57,4 @@ After I enrolled in university, I joined a music club and learned **post-product
   </center>
 
 <br>
-> BGM: 12월 24일 - IU (D.ear Cover)
+> BGM: Seasons of Love - Glee
