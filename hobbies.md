@@ -45,7 +45,7 @@ After I enrolled in university, I joined a music club and learned **post-product
       </figure></td>
     </tr>
   </table>
-<p>I am a huge fan of LEGO! I can calm myself down and release my stress while focusing on LEGO. I made different kinds of LEGO very year. Since my family moved several times, many models I built before are missing. Those are current works I made with my little brother.</p>
+<p>I am a huge fan of LEGO! I can calm myself down and release my stress while focusing on LEGO. I made different kinds of LEGO every year. Since my family moved several times, many models I built before are missing. Those are current works I made with my little brother.</p>
 <br>
 <br>
 
