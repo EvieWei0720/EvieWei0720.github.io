@@ -11,7 +11,7 @@ title: Hobbies
 <body>
    <figure style="text-align: center; float: right; margin: 25px 0 10px 25px;">
     <img src="/images/tickets.jpg" width="280" style="display: block;">
-    <figcaption>Pictures of Tickets and Invitations</figcaption>
+    <figcaption>Picture of Tickets and Invitations</figcaption>
   </figure>
 </body>
 
@@ -19,7 +19,7 @@ title: Hobbies
 
 As a child, I learned to play the **piano** and thus became interested in music. When I went to high school, I met my friends and we formed a **band**. We had some small live performances together. After graduation, I learned **classical guitar**, just playing simple songs.
 
-After I enrolled in university, I joined a music club and learned **post-production**, including recording and sound modification. But I prefer **live stage performances**, so I spend most of my free time organizing parties. I was so grateful that our student union gave me a chance to follow my passion. To offer high-quality performances, I watched lots of stage performances to draw inspiration. Currently, my love is **musical**. 'Phantom of the Opera' is my favorite! If you are interested in musicals, we can go to the theater together!
+After I enrolled in university, I joined a music club and learned **post-production**, including recording and sound modification. But I prefer **live stage performances**, so I spend most of my free time organizing parties. I was so grateful that our student union gave me a chance to follow my passion. To offer high-quality performances, I watched lots of stage performances to draw inspiration. Currently, my love is **musical**. 'Phantom of the Opera' is my favorite! If you are interested in musical, we can go to the theater together!
 
 
 <body>
@@ -53,7 +53,7 @@ After I enrolled in university, I joined a music club and learned **post-product
 
 <center>
     <img src="/images/christmas.jpg" width="150" height="auto">
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color="#990000" size="5" >HAPPY HOLIDAY!</font>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color="#990000" size="5" >HAPPY NEW YEAR!</font>
   </center>
 
 <br>
