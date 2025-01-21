@@ -55,8 +55,8 @@ After I enrolled in university, I joined a music club and learned **post-product
     <!--<img src="/images/christmas.jpg" width="150" height="auto">-->
     <font color="#990000" size="5" >HAPPY LUNAR NEW YEAR!</font>
   <br>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color="#990000" size="3" >好风凭借力，送我上青云。</font>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color="#990000" size="3" >You say 'hoo', then I fly. Fly high to bloom.</font>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color="#873600" size="3" >好风凭借力，送我上青云。</font>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color="#873600" size="3" >You say 'hoo', then I fly. Fly high to bloom.</font>
   </center>
 
 <br>
