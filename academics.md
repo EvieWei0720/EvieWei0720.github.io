@@ -36,11 +36,11 @@ Media,13,177-186. <br>
 
 ## Study Abroad Experiences
 
-- **University of California, Irvine**<br>Program: STAR Program<br>Current Courses Topic: Data Analytics for Business<br>
+- **University of California, Irvine**<br>Program: STAR Program<br>Current Course Topic: Data Analytics for Business<br>
 
 - **New York University**<br>Program: ALI Summer Program<br>Courses: Data Visualization Techniques for Business, Exploring Writing<br>
 
 - **University of California, Los Angeles**<br>Online Seminar: Contemporary Topics in Digital Media and Game Studies<br>
 
-- **National University of Singapore**<br>Online Project: Artificial Intelligence and Machine Learning — Computer Vision<br>
+- **National University of Singapore**<br>Online Courses: Artificial Intelligence and Machine Learning — Computer Vision<br>
 
