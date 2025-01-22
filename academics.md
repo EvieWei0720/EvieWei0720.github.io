@@ -7,7 +7,7 @@ title: Academics
 
 ## Publications
 
-- [**Predicting Carbon Emission at Fine Time Granularity Using Autoformer**](https://link.springer.com/chapter/10.1007/978-981-96-1812-5_13)<br>Shuyi Wei, Xin You (Co-author), Yaonan Jiang<br>2024 13th International Conference on Clean and Green Energy (ICCGE 2024),1333,135–149<br>
+- [**Predicting Carbon Emission at Fine Time Granularity Using Autoformer**](https://link.springer.com/chapter/10.1007/978-981-96-1812-5_13)<br>Shuyi Wei, Xin You (Co-author), Yaonan Jiang<br>2024 13th International Conference on Clean and Green Energy (ICCGE 2024),1333,135–149. <br>
 
 - [**A Study on Social Engagement of RPGs**](https://doi.org/10.54254/2753-7048/13/20230879)<br>Shuyi Wei<br>Lecture Notes in Education Psychology and Public 
 Media,13,177-186. <br>
