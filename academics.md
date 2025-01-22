@@ -36,7 +36,7 @@ Media,13,177-186. <br>
 
 ## Study Abroad Experiences
 
-- **University of California, Irvine**<br>Program: STAR Program<br>Courses: Practical Math and Statistics for Data Science, Research and Citation, Academic Speaking and Presentation Skills<br>
+- **University of California, Irvine**<br>Program: STAR Program<br>Current Courses Topic: Data Analytics for Business<br>
 
 - **New York University**<br>Program: ALI Summer Program<br>Courses: Data Visualization Techniques for Business, Exploring Writing<br>
 
