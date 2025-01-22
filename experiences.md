@@ -15,7 +15,7 @@ title: Experiences
 
 ## Extracurricular Activities
 
-I worked in Student Union of our department for my first two years, and I was so lucky that I was promoted to the leader of the Literature and Art Department in my second year!
+I worked in Student Union of the Literature and Art Department for my first two years of my undergraduate study, and I was so lucky to be promoted to the leader of our department in my second year!
 
 - May 20, 2023：Chief director of [**#11 'Book of Time' Party - Dream Maker**](https://www.bilibili.com/video/BV1eh4y1x7ss?spm_id_from=333.788.videopod.sections&vd_source=5de035d3f605de14fdd37cb5b991745f)
 - Nov 26, 2022：Chief director of [**Welcome Party - Unbound**](https://www.bilibili.com/video/BV1rP411u7w9?spm_id_from=333.788.videopod.sections&vd_source=5de035d3f605de14fdd37cb5b991745f)
