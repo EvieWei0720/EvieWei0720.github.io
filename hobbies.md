@@ -4,7 +4,7 @@ permalink: /hobbies/index.html
 title: Hobbies
 ---
 <audio autoplay loop hidden>
-  <source src="/audio/孢子.MP3" type="audio/mp3">
+  <source src="/audio/周深 - 亲爱的旅人啊.ogg" type="audio/mp3">
   Your browser does not support the audio element.
 </audio>
 ## Music
@@ -60,4 +60,4 @@ After I enrolled in university, I joined a music club and learned **post-product
   </center>
 
 <br>
-> BGM: Holssi - IU
+> BGM: 亲爱的旅人啊 - 周深
