@@ -4,7 +4,7 @@ permalink: /hobbies/index.html
 title: Hobbies
 ---
 <audio autoplay loop hidden>
-  <source src="/audio/周深 - 亲爱的旅人啊.ogg" type="audio/mp3">
+  <source src="/audio/IU - heart.mp3" type="audio/mp3">
   Your browser does not support the audio element.
 </audio>
 ## Music
