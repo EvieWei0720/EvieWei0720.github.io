@@ -46,13 +46,4 @@ title: Experiences
 - [**A Study on Social Engagement of RPGs**](https://doi.org/10.54254/2753-7048/13/20230879)<br>Shuyi Wei<br>Lecture Notes in Education Psychology and Public 
 Media,13,177-186. <br>
 
----
-## Study Abroad Experiences
 
-- **University of California, Irvine**<br>Certificate: Data Analytics for Business<br>Program: STAR Program<br>
-
-- **New York University**<br>Program: ALI Summer Program<br>Courses: Data Visualization Techniques for Business, Exploring Writing<br>
-
-- **University of California, Los Angeles**<br>Online Seminar: Contemporary Topics in Digital Media and Game Studies<br>
-
-- **National University of Singapore**<br>Online Courses: Artificial Intelligence and Machine Learning — Computer Vision<br>
