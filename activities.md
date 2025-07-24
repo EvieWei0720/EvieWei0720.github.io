@@ -23,7 +23,7 @@ If you want to explore more excellent performances in our Student Union, please 
 
 ---
 ## Hobbies
-#### Music
+### Music
 <body>
    <figure style="text-align: center; float: right; margin: 25px 0 10px 25px;">
     <img src="/images/tickets.jpg" width="280" style="display: block;">
@@ -31,7 +31,7 @@ If you want to explore more excellent performances in our Student Union, please 
   </figure>
 </body>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Music is my longest and biggest hobby. <br>
+&nbsp;&nbsp;&nbsp;Music is my longest and biggest hobby. <br>
 
 As a child, I learned to play the **piano** and thus became interested in music. When I went to high school, I met my friends and we formed a **band**. We had some small live performances together. After graduation, I learned **classical guitar**, just playing simple songs.
 
@@ -47,7 +47,7 @@ After I enrolled in university, I joined a music club and learned **post-product
 
 <br>
 
-#### LEGO
+### LEGO
 <p></p>
 <table style="width:100%; text-align: center; margin-bottom: 0; padding-bottom: 0;">
     <tr>
