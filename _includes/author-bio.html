@@ -4,11 +4,14 @@
 
 <p>{{ site.owner.bio }}</p>
 
-<p>
-  <a href="mailto:eviewei0720@gmail.com" aria-label="Send Email">
-    📧 Email Me
-  </a>
-</p>
+{% if site.owner.email %}
+  <p style="text-indent:0; margin-top:1.5em;">
+    <a href="mailto:{{ site.owner.email }}" aria-label="Send Email">
+      <i class="icon-mail" style="margin-right: 6px;"></i> Email
+    </a>
+  </p>
+{% endif %}
+
 
 
 
