@@ -1,11 +1,22 @@
 ---
 layout: page
-permalink: /academics/index.html
-title: Academics
+permalink: /experiences/index.html
+title: Experiences
+---
+
+## Industry Experiences
+
+- **Business Data Analyst Intern**<br>Company: [Ligentia](https://ligentia.com/)<br>I developed several PowerBI dashboards for both internal operations and customer-facing purposes, enhancing data accessibility and decision-making. I also explored the integration of Python-generated custom visuals in Power BI to increase flexibility and visual expressiveness. Additionally, I collaborated with my mentor to identify the optimal energy consumption-to-output ratio for over 50 machines by applying machine learning models to improve operational efficiency.<br>
+
+- **Business Analyst Intern**<br>Company: [Analysys](https://www.analysys.cn/)<br>I investigated and surveyed Agent Development Platforms, improving an AI product database. A comparative analysis table of Agent Development Platforms and enterprise competitiveness was produced. I summarized my results in a brief industry analysis.<br>
+
+- **Personal Assistant - Data Analyst**<br>Company: [JD Logistics](https://www.jdl.com/en/profile)<br>I was a member of the operation analysis group in the Supply Chain Shanghai Integrated Support Department, assisting in checking the wage data.<br>
+
+
 ---
 
 
-## Research Projects
+## Projects
 
 - **Data Visualization and Prediction of Carbon Emission**<br>Led by [Prof. Shi](https://faculty.hdu.edu.cn/jsjxy/sxy2/main.htm)<br>This project aims to deal with the lack of fine-grained data prediction and deliver the urgency of reducing carbon emission via visualization.<br>I am responsible for EDA, including data collection & preparation, model optimization, and paper writing. Our paper tackles the problem of geographically accurate predictions by using fine-grained data, and preliminary optimizes existing methods by adapting deep learning models, such as Autoformer with time series.<br>
 
