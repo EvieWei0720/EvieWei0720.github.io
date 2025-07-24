@@ -3,6 +3,10 @@ layout: page
 permalink: /activities/index.html
 title: Activities
 ---
+<audio autoplay loop hidden>
+  <source src="/audio/IU - heart.MP3" type="audio/mp3">
+  Your browser does not support the audio element.
+</audio>
 
 ## Extracurricular Activities
 
@@ -19,12 +23,7 @@ If you want to explore more excellent performances in our Student Union, please 
 
 ---
 ## Hobbies
-<audio autoplay loop hidden>
-  <source src="/audio/IU - heart.MP3" type="audio/mp3">
-  Your browser does not support the audio element.
-</audio>
-
-# Music
+**Music**
 <body>
    <figure style="text-align: center; float: right; margin: 25px 0 10px 25px;">
     <img src="/images/tickets.jpg" width="280" style="display: block;">
@@ -48,7 +47,7 @@ After I enrolled in university, I joined a music club and learned **post-product
 
 <br>
 
-# LEGO
+**LEGO**
 <p></p>
 <table style="width:100%; text-align: center; margin-bottom: 0; padding-bottom: 0;">
     <tr>
