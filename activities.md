@@ -23,7 +23,7 @@ If you want to explore more excellent performances in our Student Union, please 
 
 ---
 ## Hobbies
-<div style="margin-top: 10px;"></div>
+<div style="margin-top: 100px;"></div>
 ### Music
 <body>
    <figure style="text-align: center; float: right; margin: 25px 0 10px 25px;">
