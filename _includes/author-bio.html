@@ -7,17 +7,17 @@
 {% if site.owner.email %}
   <p style="text-indent:0; cursor:pointer;" onclick="toggleEmail()">
     <i class="icon-mail"></i>
-    <span id="email-text">Click to show email</span>
+    <span id="email-text">Email</span>
   </p>
 
   <script>
     function toggleEmail() {
       const emailSpan = document.getElementById("email-text");
       const emailAddress = "{{ site.owner.email }}";
-      if (emailSpan.textContent === "Click to show email") {
+      if (emailSpan.textContent === "Email") {
         emailSpan.textContent = emailAddress;
       } else {
-        emailSpan.textContent = "Click to show email";
+        emailSpan.textContent = "Email";
       }
     }
   </script>
