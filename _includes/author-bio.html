@@ -4,11 +4,23 @@
 
 <p>{{ site.owner.bio }}</p>
 
-
 {% if site.owner.email %}
-  <p style="text-indent:0;">
-    <i class="icon-mail" title="{{ site.owner.email }}" style="cursor:help;"></i>
+  <p style="text-indent:0; cursor:pointer;" onclick="toggleEmail()">
+    <i class="icon-mail"></i>
+    <span id="email-text">Click to show email</span>
   </p>
+
+  <script>
+    function toggleEmail() {
+      const emailSpan = document.getElementById("email-text");
+      const emailAddress = "{{ site.owner.email }}";
+      if (emailSpan.textContent === "Click to show email") {
+        emailSpan.textContent = emailAddress;
+      } else {
+        emailSpan.textContent = "Click to show email";
+      }
+    }
+  </script>
 {% endif %}
 
 
