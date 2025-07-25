@@ -14,6 +14,6 @@ I am a **master's student** majoring in *Business Intelligence and Data Analytic
 I used to work at [Ligentia USA, Inc.](https://ligentia.com/) as a Business Data Analyst intern. My job was to develop various PowerBI dashboards and build Python models for machine optimization. I also interned at [Analysys](https://www.analysys.cn/) as a Business Analyst, responsible for AI Agent Development Platforms research. At [JD Logistics](https://www.jdl.com/en/profile) , I was a temporary member of the operation analysis group in the Supply Chain Shanghai Integrated Support Department, assisting my mentor in checking salary data using Excel.<br>
 
 <center>
-<font color="##f08080" size="4" >ACTIVELY LOOKING FOR A DATA SCIENTIST POSITION!</font>
+<font color="#FFA500" size="4" >ACTIVELY LOOKING FOR A DATA SCIENTIST POSITION!</font>
 
 
