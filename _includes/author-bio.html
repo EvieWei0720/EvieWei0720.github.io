@@ -5,7 +5,7 @@
 <p>{{ site.owner.bio }}</p>
 
 {% if site.owner.email %}
-  <p style="text-indent:0; cursor:pointer;" onclick="toggleEmail()">
+  <p style="text-indent:0; cursor:pointer; margin: 2px 0;" onclick="toggleEmail()">
     <i class="icon-mail"></i>
     <span id="email-text">Email</span>
   </p>
@@ -22,6 +22,15 @@
     }
   </script>
 {% endif %}
+
+{% if site.owner.cv %}
+  <p style="text-indent:0; margin: 2px 0;">
+    <a href="{{ site.owner.cv }}">
+      <img src="https://caihanlin.com/images/logo/icons8-cv-100.png" width="16.5" height="16.5"> My CV
+    </a>
+  </p>
+{% endif %}
+
 
 
 
