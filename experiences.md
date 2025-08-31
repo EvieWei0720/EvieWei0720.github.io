@@ -24,7 +24,7 @@ title: Experiences
 
 - [**Click-Through Rate Prediction Based on Wide and Deep Model**](https://huggingface.co/spaces/Evie25/CTR_Prediction)<br>Self Project<br>A demo of a CTR prediction system using a **Wide & Deep model**, featuring UI-based hyperparameter tuning.<br>
 
-- [**Chat AI**](https://github.com/EvieWei0720/ChatAI-Sound)<br>Self Project<br>A talkable chat robot with the sound you prefer! I did a full-stack project using React and Express, including calling the GPT and Speechify APIs.<br>
+- [**Chat AI**](https://github.com/EvieWei0720/ChatAI-Sound)<br>Self Project<br>A talkable chat robot with the sound you prefer! I did a **full-stack project** using **React** and **Express**, including calling the GPT and Speechify APIs.<br>
   
 - **Virtual Fit Project**<br>Supervised by [Prof. Yu](https://computer.hdu.edu.cn/2021/1217/c6770a140242/page.htm) and [Prof. Gao](https://hz.xidian.edu.cn/info/1286/5200.htm)<br>Make online shopping faster! We focused on the effect of virtual fitting with improving the identification effect of clothing area.<br>I was the project manager in charge of time management and presenting the achievements regularly. Also, I did literature collection and **Cocosnet algorithm** implementation, assisting with web design.<br>
 
