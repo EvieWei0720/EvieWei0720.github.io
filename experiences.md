@@ -5,6 +5,7 @@ title: Experiences
 ---
 
 ## Industry Experiences
+- **Data Science Intern**<br>Company: [FedEx Express](https://www.fedex.com/en-us/home.html)<br><br>
 
 - **Business Data Analyst Intern**<br>Company: [Ligentia](https://ligentia.com/)<br>I developed several **PowerBI dashboards** for both internal operations and customer-facing purposes, enhancing data accessibility and decision-making. I also explored the integration of **Python-generated custom visuals** in Power BI to increase flexibility and visual expressiveness. Additionally, I collaborated with my mentor to identify the optimal energy consumption-to-output ratio for over 50 machines by applying **machine learning models** to improve operational efficiency.<br>
 
