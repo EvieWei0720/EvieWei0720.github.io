@@ -19,7 +19,7 @@ title: Experiences
 
 ## Projects
 
-- [**Chat AI**](https://github.com/EvieWei0720/ChatAI-Sound)<br>Self Project<br>A talkable chat robot with the sound you prefer! I did a **full-stack project** using **React** and **Express**, including calling the GPT and Speechify APIs, and integrating MCP.<br>
+- [**Chat AI**](https://github.com/EvieWei0720/ChatAI-Sound)<br>Self Project<br>A talkable chat robot with the sound you prefer! I did a **full-stack project** using **React** and **Express**, including calling the GPT and Speechify APIs, and integrating MCP and RAG.<br>
 
 - [**Data Visualization and Prediction of Carbon Emission**](https://github.com/EvieWei0720/CO2-Prediction)<br>Led by [Prof. Shi](https://faculty.hdu.edu.cn/jsjxy/sxy2/main.htm)<br>This project aims to deal with the lack of fine-grained data prediction and deliver the urgency of reducing carbon emission via visualization.<br>I am responsible for **EDA**, including data collection & preparation, model optimization, and paper writing. Our paper tackles the problem of geographically accurate predictions by using fine-grained data, and preliminary optimizes existing methods by adapting **machine learning and deep learning models**, such as **Autoformer** with time series.<br>
 
