@@ -18,6 +18,7 @@ title: Experiences
 
 
 ## Projects
+- [**Online Order System**](https://github.com/EvieWei0720/OnlineOrder)<br>Self Project<br>A **full-stack** online order system with **React** frontend and **Spring Boot** backend.<br>
 
 - [**Chat AI**](https://github.com/EvieWei0720/ChatAI-Sound)<br>Self Project<br>A talkable chat robot with the sound you prefer! I did a **full-stack project** using **React** and **Express**, including calling the GPT and Speechify APIs, and integrating MCP and RAG.<br>
 
